@@ -12,6 +12,12 @@
 
 <https://github.com/estsetubal-atad/CProgram_Template>
 
+:computer: Template `CProgram_Template_MinGW`:
+
+<https://github.com/estsetubal-atad/CProgram_Template_MinGW>
+
+:warning: Caso utilize um computador de laboratório com o MinGW, poderá utilizar este template. Note que não terá acesso ao *doxygen*, nem ao *valgrind*.
+
 :computer: Template `CProgram_Template_MacOS`:
 
 <https://github.com/estsetubal-atad/CProgram_Template_MacOS>
