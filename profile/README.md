@@ -18,7 +18,7 @@ Consulte o 📕 livro *Linguagem C, Bruno Silva* (disponível no Moodle) para um
 
     :bulb: Template de projeto para Windows/WSL e *Docker container*.
 
-    - :tv: You can check the **YouTube** page with some tutorial videos, namely how to use the *GitHub* repositories with the above methods: [ATAD's YouTube Channel](https://www.youtube.com/channel/UCm7ymdQlDgonaj7dVw0tfSw)
+    - :tv: Consulte a página do **YouTube** com alguns tutoriais, em particular como utilizar os repositórios *GitHub* consoante a metodologia de desenvolvimento adoptada: [ATAD's YouTube Channel](https://www.youtube.com/channel/UCm7ymdQlDgonaj7dVw0tfSw)
 
 - :computer: Template `CProgram_Template_MinGW`:
 
