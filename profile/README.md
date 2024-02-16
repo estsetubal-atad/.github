@@ -2,35 +2,33 @@
 
 ## Software e Ambiente de Desenvolvimento
 
-:open_book: Consulte a documentação em:
+:open_book: Consulte os tutoriais de instalação e documentação em:
 
-<https://github.com/estsetubal-atad/Docs>
+- <https://github.com/estsetubal-atad/Docs>
+
+### Linguagem C
+
+Consulte o 📕 livro *Linguagem C, Bruno Silva* (disponível no Moodle) para uma introdução à linguagem C e principais diferenças de sintaxe em relação à linguagem Java.
 
 ## Templates de Projetos VS Code
 
-:computer: Template `CProgram_Template`: 
+- :computer: Template `CProgram_Template`: 
 
-<https://github.com/estsetubal-atad/CProgram_Template>
+    <https://github.com/estsetubal-atad/CProgram_Template>
 
-:computer: Template `CProgram_Template_MinGW`:
+    :bulb: Template de projeto para Windows/WSL e *Docker container*.
 
-<https://github.com/estsetubal-atad/CProgram_Template_MinGW>
+    - :tv: You can check the **YouTube** page with some tutorial videos, namely how to use the *GitHub* repositories with the above methods: [ATAD's YouTube Channel](https://www.youtube.com/channel/UCm7ymdQlDgonaj7dVw0tfSw)
 
-:warning: Caso utilize um computador de laboratório com o MinGW, poderá utilizar este template. Note que não terá acesso ao *doxygen*, nem ao *valgrind*.
+- :computer: Template `CProgram_Template_MinGW`:
 
-:computer: Template `CProgram_Template_MacOS`:
+    <https://github.com/estsetubal-atad/CProgram_Template_MinGW>
 
-<https://github.com/estsetubal-atad/CProgram_Template_MacOS>
-
-:warning: Para o sistema operativo MacOS é aconselhado a instalação alternativa do método *Docker Container* e uso "normal" do template  `CProgram_Template`.
+    - :warning: Caso utilize um computador de laboratório com o MinGW, poderá utilizar este template. Note que não terá acesso ao *doxygen*, nem ao *valgrind*.
 
 ## Repositórios de apoio às aulas TP
 
 Os seguintes repositórios são referenciados nos slides das aulas TP e apresentados por ordem da planificação das aulas:
-
-- **[3]** Formalização de Algoritmos e Complexidade Algoritmíca
-
-    - <https://github.com/estsetubal-atad/Complexity_Template>
 
 - **[4]** Algoritmos de Pesquisa, Seleção e Ordenação
 
@@ -40,23 +38,37 @@ Os seguintes repositórios são referenciados nos slides das aulas TP e apresent
 
     - <https://github.com/estsetubal-atad/Students_Template>
 
-- **[11/12]** Introdução aos Tipos Abstratos de Dados
+- **[11 & 12]** Introdução aos Tipos Abstratos de Dados
 
-    - **ADT Complex** (externo): <https://github.com/brunomnsilva/AbstractDataTypesInC>
+    - **ADT Complex**: <https://github.com/estsetubal-atad/ADTComplex_Template>
 
 - **[13]** Utilização de ADT List
 
     - <https://github.com/estsetubal-atad/ADTList_Template>
 
-- **[14/15]** Utilização de ADT Stack e ADT Queue
+- **[14 & 15]** Utilização de ADT Stack e ADT Queue
 
-    - **ADT Stack** (externo): <https://github.com/brunomnsilva/AbstractDataTypesInC>
+    - **ADT Stack**: 🚧
 
-    - **ADT Queue**: <https://github.com/estsetubal-atad/ADTQueue_Template>
+    - **ADT Queue**: 🚧
 
 - **[16]** Utilização de ADT Map
 
-    - <https://github.com/estsetubal-atad/ADTMap_Template>
+    - 🚧
+
+- **[17, 18 & 19]** Introdução às Estruturas de Dados lineares e implementação de ADT List
+
+    - 🚧
+
+- **[20]** ADT Stack - Implementação com lista simplesmente ligada
+
+    - 🚧
+
+- **[21]** ADT Queue - Implementação com *array circular*
+
+    - 🚧
+
+<!-- 
 
 - **[17]** Introdução às Estruturas de Dados (para coleções)
 
@@ -82,16 +94,17 @@ Os seguintes repositórios são referenciados nos slides das aulas TP e apresent
 
     - <https://github.com/estsetubal-atad/ADTQueue_Impl_Template>
 
+
 - **[24/25]** Implementação do ADT Map
 
     - <https://github.com/estsetubal-atad/ADTMap_Impl_Template>
 
-
+-->
 
 
 ## Repositório de implementações de ADTs
 
-Este repositório acompanha o livro *Tipos Abstratos de Dados - Linguagem C, Bruno Silva* e contém todas as implementações de ADTs efetuadas em aula.
+Este repositório acompanha o 📗 livro *Tipos Abstratos de Dados - Linguagem C, Bruno Silva* (disponível no Moodle) e contém todas as implementações de ADTs efetuadas em aula.
 
 <https://github.com/brunomnsilva/AbstractDataTypesInC>
 
