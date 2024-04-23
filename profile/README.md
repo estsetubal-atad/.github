@@ -48,9 +48,9 @@ Os seguintes repositórios são referenciados nos slides das aulas TP e apresent
 
 - **[14 & 15]** Utilização de ADT Stack e ADT Queue
 
-    - **ADT Stack**: 🚧
+    - **ADT Stack**: <https://github.com/estsetubal-atad/ADTStack_Template>
 
-    - **ADT Queue**: 🚧
+    - **ADT Queue**: <https://github.com/estsetubal-atad/ADTQueue_Template>
 
 - **[16]** Utilização de ADT Map
 
