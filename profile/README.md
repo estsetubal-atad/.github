@@ -54,7 +54,9 @@ Os seguintes repositórios são referenciados nos slides das aulas TP e apresent
 
 - **[16]** Utilização de ADT Map
 
-    - 🚧
+    - **Exercício** :one: : <https://github.com/estsetubal-atad/ADTMap_Template2>
+    
+    - **Exercício** :two: : <https://github.com/estsetubal-atad/ADTMap_Template> 
 
 - **[17, 18 & 19]** Introdução às Estruturas de Dados lineares e implementação de ADT List
 
