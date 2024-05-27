@@ -60,7 +60,7 @@ Os seguintes repositórios são referenciados nos slides das aulas TP e apresent
 
 - **[17, 18 & 19]** Introdução às Estruturas de Dados lineares e implementação de ADT List
 
-    - 🚧
+    - **ADT List (Implementação)**: <https://github.com/estsetubal-atad/ADTList_Impl_Template>
 
 - **[20]** ADT Stack - Implementação com lista simplesmente ligada
 
