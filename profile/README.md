@@ -64,11 +64,11 @@ Os seguintes repositórios são referenciados nos slides das aulas TP e apresent
 
 - **[20]** ADT Stack - Implementação com lista simplesmente ligada
 
-    - 🚧
+    - <https://github.com/estsetubal-atad/ADTStack_Impl_Template>
 
 - **[21]** ADT Queue - Implementação com *array circular*
 
-    - 🚧
+    - <https://github.com/estsetubal-atad/ADTQueue_Impl_Template>
 
 <!-- 
 
