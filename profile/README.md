@@ -33,9 +33,6 @@ Os seguintes repositórios são referenciados nos slides das aulas TP e apresent
 - **[4]** Algoritmos de Pesquisa, Seleção e Ordenação
 
     - <https://github.com/estsetubal-atad/SearchSelectOrdering>
-
-- **[7]** Definição de tipos de dados
-
     - <https://github.com/estsetubal-atad/Students_Template>
 
 - **[11 & 12]** Introdução aos Tipos Abstratos de Dados
