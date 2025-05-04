@@ -30,40 +30,40 @@ Consulte o 📕 livro *Linguagem C, Bruno Silva* (disponível no Moodle) para um
 
 Os seguintes repositórios são referenciados nos slides das aulas TP e apresentados por ordem da planificação das aulas:
 
-- **[4]** Algoritmos de Pesquisa, Seleção e Ordenação
+- Algoritmos de Pesquisa, Seleção e Ordenação
 
     - <https://github.com/estsetubal-atad/SearchSelectOrdering>
     - <https://github.com/estsetubal-atad/Students_Template>
 
-- **[11 & 12]** Introdução aos Tipos Abstratos de Dados
+- Introdução aos Tipos Abstratos de Dados
 
     - **ADT Complex**: <https://github.com/estsetubal-atad/ADTComplex_Template>
 
-- **[13]** Utilização de ADT List
+- Utilização de ADT List
 
     - <https://github.com/estsetubal-atad/ADTList_Template>
 
-- **[14 & 15]** Utilização de ADT Stack e ADT Queue
+- Utilização de ADT Stack e ADT Queue
 
     - **ADT Stack**: <https://github.com/estsetubal-atad/ADTStack_Template>
 
     - **ADT Queue**: <https://github.com/estsetubal-atad/ADTQueue_Template>
 
-- **[16]** Utilização de ADT Map
+- Utilização de ADT Map
 
     - **Exercício** :one: : <https://github.com/estsetubal-atad/ADTMap_Template2>
     
     - **Exercício** :two: : <https://github.com/estsetubal-atad/ADTMap_Template> 
 
-- **[17, 18 & 19]** Introdução às Estruturas de Dados lineares e implementação de ADT List
+- Introdução às Estruturas de Dados lineares e implementação de ADT List
 
     - **ADT List (Implementação)**: <https://github.com/estsetubal-atad/ADTList_Impl_Template>
 
-- **[20]** ADT Stack - Implementação com lista simplesmente ligada
+- ADT Stack - Implementação com lista simplesmente ligada
 
     - <https://github.com/estsetubal-atad/ADTStack_Impl_Template>
 
-- **[21]** ADT Queue - Implementação com *array circular*
+- ADT Queue - Implementação com *array circular*
 
     - <https://github.com/estsetubal-atad/ADTQueue_Impl_Template>
 
