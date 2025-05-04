@@ -16,15 +16,17 @@ Consulte o 📕 livro *Linguagem C, Bruno Silva* (disponível no Moodle) para um
 
     <https://github.com/estsetubal-atad/CProgram_Template>
 
-    :bulb: Template de projeto para Windows/WSL e *Docker container*.
+    :bulb: Template de projeto para Windows/WSL, *Docker container* e MinGW (este último necessita adicionalmente da extensão abaixo).
 
     - :tv: Consulte a página do **YouTube** com alguns tutoriais, em particular como utilizar os repositórios *GitHub* consoante a metodologia de desenvolvimento adoptada: [ATAD's YouTube Channel](https://www.youtube.com/channel/UCm7ymdQlDgonaj7dVw0tfSw)
 
-- :computer: Template `CProgram_Template_MinGW`:
+- 🧩 Extensão para MinGW:
 
-    <https://github.com/estsetubal-atad/CProgram_Template_MinGW>
+    [MinGW C Configuration](https://marketplace.visualstudio.com/items?itemName=brunomnsilva.mingw-c-configuration)
 
-    - :warning: Caso utilize um computador de laboratório com o MinGW, poderá utilizar este template. Note que não terá acesso ao *doxygen*, nem ao *valgrind*.
+    - :warning: Ao utilizar o MinGW, note que não terá acesso ao *valgrind* e, dependendo da instalação, também ao *doxygen*.
+ 
+    - :bulb: Depois de instalada a extensão, sempre que abrir um projeto execute o comando da extensão (ver página da extensão) para configurar o ambiente MinGW no projeto VS Code.
 
 ## Repositórios de apoio às aulas TP
 
