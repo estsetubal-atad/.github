@@ -41,6 +41,10 @@ Os seguintes repositórios são referenciados nos slides das aulas TP e apresent
 
     - **ADT Complex**: <https://github.com/estsetubal-atad/ADTComplex_Template>
 
+- Utilização de ADTs (geral) para resolução de exercícios:
+  
+    - <https://github.com/estsetubal-atad/ADTUsage_Template>     
+
 - Utilização de ADT List
 
     - <https://github.com/estsetubal-atad/ADTList_Template>
